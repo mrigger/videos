@@ -34,6 +34,7 @@ Talks about software engineering, databases, programming languages, and systems.
 * BlackHat: https://www.youtube.com/c/BlackHatOfficialYT/videos
 * CppCon: https://www.youtube.com/user/CppCon/videos
 * Java Language Summit: https://www.youtube.com/channel/UCmRtPmgnQ04CMUpSUqPfhxQ
+* Postgres Conference: https://www.youtube.com/@PostgresConference/videos
 
 # Regular Seminars
 * Dutch Seminar on Data Systems Design: https://www.youtube.com/channel/UC-lFJg2eN9Qds1MBZzMM9mQ 
