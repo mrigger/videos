@@ -20,6 +20,7 @@ Talks about software engineering, databases, programming languages, and systems.
 * Microsoft Research: https://www.youtube.com/user/MicrosoftResearch
 * Percona: https://www.youtube.com/c/percona/videos
 * PingCAP Guests: https://www.youtube.com/playlist?list=PLlGz8dzgfp-4OmKqyVmmHmMHitCnXZUFH
+* Thoughtworks: https://www.youtube.com/@thoughtworks/videos
 
 # Developer Conferences
 * Strange Loop: https://www.youtube.com/c/StrangeLoopConf
